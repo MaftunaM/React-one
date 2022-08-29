@@ -1,0 +1,12 @@
+.car{
+    padding: 20px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, .6);
+    max-width: 300px;
+    margin: 10px;
+    display: inline-block;
+    cursor: pointer;
+    
+}
+.car p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
